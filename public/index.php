@@ -1,5 +1,4 @@
-cq mqrche
-
+ca marche
 <?php
 echo phpinfo();
 ?>
